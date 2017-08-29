@@ -1,6 +1,8 @@
 # dm-programming
 ### 2017-1 Discrete Mathematics programming assignment  
 
+https://youtu.be/OKMOKCyGf10
+
 Implement the following functionalities using your favorite programming language.  
  
 1. The program should have the following menu as below (at the least).  Details of each menu/function is explained follows.  
